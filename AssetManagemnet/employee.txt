@@ -1,0 +1,4 @@
+E1611, Nguyen Van A, 12/06/2000, EM, true, 456789
+E1622, Pham Thi B, 15/07/2002, EM, false, ;;;def
+E1633, Bui Minh C, 10/07/2002, EM, true, 668344
+E1618, Pham Trong Nghia, 03/05/2002, MA, true, qjkld6835

@@ -1,0 +1,4 @@
+A001, Samsung Projector, White, 500, 3.2, 10, 10
+A002, Macbook Pro 2016, Silver, 1000, 2.2, 5, 5
+A003, Laptop Asus, Purple, 1800, 2.0, 10, 10
+A004, Ipad Mini, Silver, 1000, 4.6, 20, 20

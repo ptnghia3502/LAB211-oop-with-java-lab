@@ -1,0 +1,4 @@
+1, SE11, Vin90, White, 7000, Vinfast, Family, 2018
+2, SA44, MT03, Blue, 4000, Yamaha, 150, false
+2, SA33, Z300, Green, 12000, Kawasaki, 299, true
+1, SE22, Fort, Black, 9000, Toyota, Truck, 1995
